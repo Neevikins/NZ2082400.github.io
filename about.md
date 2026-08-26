@@ -1,6 +1,6 @@
 # About Me
-Hello! I am [Your Initials or Nickname].
-Write a short paragraph about your interests, skills, or goals.
+Hello! I am Neevikins.
+I am interested in robotics. I am skilled at doing proper exersizes in the gym. My goal is to build a very good robot.
 
 ## Navigation
 [Notebook](notebook.md)
