@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
-title: My Portfolio
-description: Personal portfolio and project hub built with GitHub Pages.
+title: My Wrangler Studios Portfolio
+description: This is my portfolio showcasing my projects and skills.
+baseurl: "" # leave empty since this is your user page
+url: "https://Neevikins.github.io" # replace YOURUSERNAME with your GitHub username
+theme: jekyll-theme-hacker # replace “merlot” with your chosen theme from the list
+
