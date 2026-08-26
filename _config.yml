@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-theme: jekyll-theme-hacker
 title: My Wrangler Studios Portfolio
 description: This is my portfolio showcasing my projects and skills.
 baseurl: "" # leave empty since this is your user page
