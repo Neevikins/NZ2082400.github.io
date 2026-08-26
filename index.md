@@ -9,4 +9,4 @@ Click here to learn more → [About Me](about.md)
 Click here to go to my notebook → [Notebook](notebook.md)
 
 ## Career Goals
-Click here to see my career goals → [Carear Goals](Career.md)
+Click here to see my career goals → [Career Goals](Career.md)
