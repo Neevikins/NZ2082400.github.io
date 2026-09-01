@@ -5,6 +5,6 @@ title: Home
 
 title: My Wrangler Studios Portfolio
 description: This is my portfolio showcasing my projects and skills.
-baseurl: "" # leave empty since this is your user page
-url: "https://neevikins.github.io/NZ2082400.github.io/" # replace YOURUSERNAME with your GitHub username
+url: "https://neevikins.github.io"
+baseurl: "/NZ2082400.github.io"
 theme: jekyll-theme-cayman
